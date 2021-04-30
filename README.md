@@ -1,6 +1,6 @@
 <h1 align="center">uPodcast</h1>
 
-<h4 align="center">| Design prototype for podcast channels |</h4>
+<p align="center"><b>| Design prototype for podcast channels |</b></p>
 
 <p align="center">
 <img src="https://i.ibb.co/zngNbrS/u-Podcast-1.png" alt="prototype_1">
